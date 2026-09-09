@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+2:I[62319,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+3:I[66357,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+4:I[1509,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+e:I[24170,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+f:I[57592,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+10:I[55581,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+11:I[22016,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],""]
+12:I[60763,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js","/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+13:I[97367,["/ruoyan-xinghui-blog/_next/static/chunks/0ph0hub54gnw..js","/ruoyan-xinghui-blog/_next/static/chunks/05j~7ltvhvxdq.js","/ruoyan-xinghui-blog/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+:HL["/avatar.jpg","image"]
+:HL["/ruoyan-xinghui-blog/_next/static/chunks/15cahw4d8-wp1.css","style"]
+:HL["/ruoyan-xinghui-blog/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
+5:T1dfc,
+                  .prose h1 { font-size: 1.8rem !important; font-weight: 900 !important; margin-bottom: 1.2rem !important; margin-top: 2rem !important; line-height: 1.3 !important; color: inherit !important; }
+                  .prose h2 { font-size: 1.5rem !important; font-weight: 800 !important; margin-bottom: 1rem !important; margin-top: 1.5rem !important; color: inherit !important; }
+                  .prose h3 { font-size: 1.2rem !important; font-weight: 700 !important; margin-bottom: 0.8rem !important; color: inherit !important; }
+                  .prose p { font-size: 0.95rem !important; line-height: 1.75 !important; color: inherit !important; }
+                  
+                  .prose a { color: #6366f1 !important; text-decoration: none !important; font-weight: 600 !important; border-bottom: 1px dashed #6366f1 !important; transition: all 0.3s ease !important; }
+                  .prose a:hover { color: #4f46e5 !important; border-bottom-style: solid !important; background-color: rgba(99, 102, 241, 0.1) !important; padding: 0 0.2rem !important; border-radius: 0.2rem !important; }
+                  .dark .prose a { color: #818cf8 !important; border-bottom-color: #818cf8 !important; }
+                  .dark .prose a:hover { color: #a5b4fc !important; background-color: rgba(129, 140, 248, 0.15) !important; }
+
+                  .prose ul { list-style-type: disc !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+                  .prose ol { list-style-type: decimal !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+                  .prose li { display: list-item !important; margin-bottom: 0.5rem !important; }
+                  
+                  .prose ul ul, .prose ol ul { list-style-type: circle !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+                  .prose ol ol, .prose ul ol { list-style-type: lower-alpha !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+                  
+                  .prose del { text-decoration-color: inherit !important; opacity: 0.6; }
+                  
+                  /* 🌟 引用块专属果冻极客风样式补丁 */
+                  .prose blockquote {
+                    border-left: 4px solid #6366f1 !important;
+                    background-color: rgba(99, 102, 241, 0.05) !important;
+                    padding: 1rem 1.5rem !important;
+                    margin: 1.5rem 0 !important;
+                    border-radius: 0 1.25rem 1.25rem 0 !important;
+                    font-style: italic !important;
+                    color: #64748b !important;
+                  }
+                  .prose blockquote p {
+                    margin: 0 !important; 
+                    color: inherit !important;
+                  }
+                  .dark .prose blockquote {
+                    border-left-color: #818cf8 !important;
+                    background-color: rgba(129, 140, 248, 0.1) !important;
+                    color: #94a3b8 !important;
+                  }
+                  
+                  .prose pre {
+                    background-color: #282c34 !important; color: #abb2bf !important;
+                    padding: 1rem !important; border-radius: 0.75rem !important;
+                    overflow-x: auto !important; box-shadow: inset 0 0 10px rgba(0,0,0,0.3) !important;
+                    margin-top: 1rem !important; margin-bottom: 1rem !important;
+                  }
+                  
+                  .prose pre code, .prose p code, .prose li code { 
+                    font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, ui-monospace, monospace !important; 
+                    font-variant-ligatures: contextual !important; 
+                  }
+                  .prose pre code { 
+                    background-color: transparent !important; 
+                    padding: 0 !important; 
+                    color: inherit !important; 
+                    font-size: 0.85em !important; 
+                  }
+                  
+                  .prose code::before, .prose code::after { content: none !important; }
+                  .prose p code, .prose li code { background-color: rgba(99, 102, 241, 0.1) !important; color: #6366f1 !important; padding: 0.1rem 0.3rem !important; border-radius: 0.25rem !important; font-weight: 600 !important; font-size: 0.85em !important; }
+                  .dark .prose p code, .dark .prose li code { background-color: rgba(99, 102, 241, 0.2) !important; color: #818cf8 !important; }
+                  .prose img { display: block !important; margin: 1.5rem auto !important; border-radius: 1rem !important; box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important; max-width: 100% !important; height: auto !important; }
+
+                  .prose pre code .hljs-comment, .prose pre code .hljs-quote { color: #5c6370 !important; font-style: italic !important; }
+                  .prose pre code .hljs-doctag, .prose pre code .hljs-keyword, .prose pre code .hljs-formula { color: #c678dd !important; }
+                  .prose pre code .hljs-keyword.type_, .prose pre code .hljs-type { color: #c678dd !important; } 
+                  .prose pre code .hljs-section, .prose pre code .hljs-name, .prose pre code .hljs-selector-tag, .prose pre code .hljs-deletion, .prose pre code .hljs-subst { color: #e06c75 !important; }
+                  .prose pre code .hljs-literal { color: #56b6c2 !important; }
+                  .prose pre code .hljs-string, .prose pre code .hljs-regexp, .prose pre code .hljs-addition, .prose pre code .hljs-attribute, .prose pre code .hljs-meta-string { color: #98c379 !important; }
+                  .prose pre code .hljs-built_in, .prose pre code .hljs-class .hljs-title, .prose pre code .hljs-title.class_ { color: #e6c07b !important; } 
+                  .prose pre code .hljs-attr, .prose pre code .hljs-variable, .prose pre code .hljs-template-variable, .prose pre code .hljs-selector-class, .prose pre code .hljs-selector-attr, .prose pre code .hljs-selector-pseudo, .prose pre code .hljs-number { color: #d19a66 !important; }
+                  .prose pre code .hljs-symbol, .prose pre code .hljs-bullet, .prose pre code .hljs-link, .prose pre code .hljs-meta, .prose pre code .hljs-selector-id, .prose pre code .hljs-title, .prose pre code .hljs-title.function_ { color: #61aeee !important; } 
+
+                  @media (min-width: 768px) {
+                    .prose h1 { font-size: 3rem !important; font-weight: 950 !important; margin-bottom: 2rem !important; margin-top: 3rem !important; line-height: 1.1 !important; }
+                    .prose h2 { font-size: 2.2rem !important; margin-bottom: 1.5rem !important; margin-top: 2rem !important; }
+                    .prose h3 { font-size: 1.5rem !important; margin-bottom: 1rem !important; }
+                    .prose p { font-size: 1.15rem !important; line-height: 1.85 !important; }
+                    
+                    .prose ul, .prose ol { padding-left: 2rem !important; font-size: 1.1rem !important; }
+                    
+                    .prose pre { padding: 1.25rem !important; margin-top: 1.5rem !important; margin-bottom: 1.5rem !important; }
+                    .prose pre code { font-size: 0.9em !important; }
+                    .prose p code, .prose li code { padding: 0.2rem 0.4rem !important; font-size: 0.9em !important; border-radius: 0.375rem !important;}
+                    .prose img { margin: 2rem auto !important; border-radius: 2rem !important; box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important; }
+                  }
+                0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-6xl mx-auto mt-24 md:mt-28 flex flex-col lg:flex-row gap-6 md:gap-8 relative z-10","children":[["$","article",null,{"className":"flex-1 bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl shadow-2xl border border-white/40 dark:border-white/10 overflow-hidden transition-colors duration-700","children":[["$","div",null,{"className":"w-full aspect-video bg-slate-200 dark:bg-slate-700 relative group","children":["$","img",null,{"src":"/avatar.jpg","alt":"封面","className":"w-full h-full object-cover opacity-90 transition-transform duration-1000 group-hover:scale-105"}]}],["$","div",null,{"className":"p-5 md:p-12 relative","children":[["$","$L4",null,{}],["$","header",null,{"className":"mb-6 md:mb-8 border-b border-slate-300/50 dark:border-slate-700 pb-5 md:pb-6 relative","children":[["$","h1",null,{"className":"text-2xl md:text-4xl font-bold text-slate-900 dark:text-white mb-4 tracking-tight transition-colors duration-700 pr-16 md:pr-24 leading-snug","children":"当创作者开始学编程：影像与代码的共通之处"}],["$","div",null,{"className":"flex flex-wrap items-center gap-2 md:gap-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 md:gap-2 text-indigo-700 dark:text-indigo-400 font-bold bg-white/30 dark:bg-slate-900/50 px-3 md:px-4 py-1.5 md:py-2 rounded-full w-max text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","svg",null,{"className":"w-3 h-3 md:w-4 md:h-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"}]}],"写作时间：","2026-09-05 09:00:00"]}],[["$","div","随笔",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","随笔"]}],["$","div","技术",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","技术"]}]]]}]]}],["$","div",null,{"className":"relative","children":[["$","style",null,{"children":"$5"}],"$L6"]}],"$L7"]}]]}],"$L8"]}]}]]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cP0msRVMBRaMBhlNR6YZR"}
+6:["$","div",null,{"id":"article-content","className":"prose prose-slate dark:prose-invert prose-base md:prose-lg max-w-none text-slate-800 dark:text-slate-200 transition-colors duration-700 scroll-smooth","dangerouslySetInnerHTML":{"__html":"<h2>为什么一个拍片子的人开始写代码</h2>\n<p>很多人听到\"纪录片导演学编程\"这个组合，第一反应都是：这俩有关系吗？</p>\n<p>其实关系大得很。</p>\n<h2>影像和代码的共通点</h2>\n<p><strong>都是表达世界的语言。</strong> 镜头语言用画面说话，代码用逻辑说话。一个记录真实，一个创造可能。</p>\n<p><strong>都是反复打磨的过程。</strong> 一个镜头可能拍二十遍才满意，一段代码可能重构三次才清爽。那种\"终于对了\"的感觉，一模一样。</p>\n<p><strong>都是解决问题的过程。</strong> 拍摄现场总有意外，光线不对、演员状态不好、设备出问题——你要在有限条件下找到最优解。写代码也一样，需求会变、bug会来，你要做的是拆解问题、逐个击破。</p>\n<h2>学习过程并没有想象中难</h2>\n<p>说实话，一开始我也以为编程是另一座山。真的学起来才发现，很多概念跟拍片子是相通的：</p>\n<ul>\n<li>函数就像分镜脚本，一段逻辑负责一件事</li>\n<li>数据就像素材，要整理好才能剪辑</li>\n<li>调试就像后期调色，一点一点逼近想要的效果</li>\n</ul>\n<p>每一次解决问题的成就感，和拍出一个好镜头时的感觉是一样的。</p>\n<h2>写给同样想跨界的人</h2>\n<p>别怕\"从零开始\"。你已有的任何领域的经验，都会在另一个领域给你意想不到的助力。跨界不是从零出发，而是带着一身装备，换一条路走。</p>"}}]
+7:["$","div",null,{"className":"mt-12 md:mt-16","children":["$","$Le",null,{}]}]
+8:["$","aside",null,{"className":"w-full lg:w-[320px] flex flex-col gap-6 flex-shrink-0","children":[["$","div",null,{"className":"bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl p-6 border border-white/40 dark:border-white/10 shadow-xl text-center","children":[["$","div",null,{"className":"w-20 h-20 mx-auto rounded-full p-1 bg-gradient-to-tr from-indigo-500 to-purple-500 shadow-md mb-4 transition-transform duration-500 hover:rotate-3","children":["$","img",null,{"src":"/avatar.jpg","alt":"avatar","className":"w-full h-full rounded-full object-cover bg-white"}]}],["$","h3",null,{"className":"text-xl font-bold text-slate-900 dark:text-white mb-2","children":"若颜"}],["$","p",null,{"className":"text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-medium mb-4","children":"一个喜欢用镜头记录世界、用代码实现想法的人。这里存放我的项目、文章和生活碎片。"}],["$","$Lf",null,{}]]}],["$","$L10",null,{}],["$","div",null,{"className":"bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl p-6 border border-white/40 dark:border-white/10 shadow-xl","children":[["$","h3",null,{"className":"font-black text-slate-900 dark:text-white mb-4 border-l-4 border-indigo-500 pl-2 text-sm","children":"RECOMMENDED"}],["$","div",null,{"className":"space-y-4","children":[["$","$L11","city-edge",{"href":"/posts/city-edge","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"拍摄《城市边缘》的三个月：那些在城市角落生活的人们"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-08-08 18:20:00"}]]}],["$","$L11","frontend-social",{"href":"/posts/frontend-social","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"纯前端也能做社交平台？我的微圈扩列开发记录"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-06-22 20:00:00"}]]}],["$","$L11","reading-list",{"href":"/posts/reading-list","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"阅读是最便宜的旅行：今年读过的十本好书推荐"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-05-30 19:30:00"}]]}]]}]]}],["$","$L12",null,{"toc":[{"level":2,"text":"为什么一个拍片子的人开始写代码","id":"为什么一个拍片子的人开始写代码"},{"level":2,"text":"影像和代码的共通点","id":"影像和代码的共通点"},{"level":2,"text":"学习过程并没有想象中难","id":"学习过程并没有想象中难"},{"level":2,"text":"写给同样想跨界的人","id":"写给同样想跨界的人"}]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/ruoyan-xinghui-blog/_next/static/chunks/15cahw4d8-wp1.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/ruoyan-xinghui-blog/_next/static/chunks/0-y7.kz1~5qzw.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/ruoyan-xinghui-blog/_next/static/chunks/0lau6q4gup6vf.js","async":true}]
+c:["$","script","script-1",{"src":"/ruoyan-xinghui-blog/_next/static/chunks/0iwhyxshj2rrg.js","async":true}]
+d:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null
